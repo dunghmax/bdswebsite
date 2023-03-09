@@ -13,6 +13,7 @@ export default function Home() {
           <code className={styles.code}>src/app/page.js</code>
           <br></br>
           Well come to the first website of Anh Dung!
+          <br></br>
           Update for the first time
         </p>
         <div>
