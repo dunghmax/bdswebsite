@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 20;
+    margin: 200 20px;
+    list-style-type: none;
+    background-color: #e0860fe0;
+    & > li {
+        padding: 0 20px;
+    }
+  }
